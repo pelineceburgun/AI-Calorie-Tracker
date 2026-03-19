@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "AI Calorie Tracker",
+      "path": "expo",
+      "framework": "react-native"
+    }
+  ]
+}
